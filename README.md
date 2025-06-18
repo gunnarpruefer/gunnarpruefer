@@ -6,7 +6,7 @@ Agile at heart. I like KISS, I like YAGNI, I dislike Not-invented-here-syndrome.
 
 20+ years of Java, Java EE and Spring.
 
-Thankful for the great IT and Java ecosystem. It truly is standing on the shoulders of giants.
+Thankful for the great IT and Java ecosystem. When programming in Spring (work) or Quarkus (free time) it truly feels like standing on the shoulders of giants.
 
 Happy when coding. 
 
